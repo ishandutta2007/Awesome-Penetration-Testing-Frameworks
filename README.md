@@ -59,7 +59,7 @@ The following table indexes leading enterprise-grade commercial penetration test
 
 ## 🔓 Open-Source Penetration Testing & C2 Frameworks
 
-A ranked index of leading open-source penetration testing frameworks, adversary emulation platforms, and C2 servers. Sorted in descending order by GitHub community star count.
+A ranked index of leading open-source penetration testing frameworks, adversary emulation platforms, and C2 servers. Sorted in descending order by GitHub community Stars_Count.
 
 ### 1. 🎯 [Metasploit Framework](https://github.com/rapid7/metasploit-framework) [![Stars](https://img.shields.io/github/stars/rapid7/metasploit-framework?style=social&color=white)](https://github.com/rapid7/metasploit-framework/stargazers)
 - **Primary Domain**: Universal Exploitation & Post-Exploitation Framework
